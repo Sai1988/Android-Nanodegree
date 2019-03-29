@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CFD8DC"
+    tools:context="app.com.example.android.keralarestaurant.MainActivity">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/restaurant"
+        android:scaleType="centerCrop"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:alpha="0.55"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Naadan Bakshanam "
+        android:textStyle="bold"
+        android:textSize="45sp"
+        android:fontFamily="cursive"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Authentic kerala home style food serving the best seafood particulary fish, clams and oysters."
+        style="@android:style/TextAppearance.Small"
+        android:textStyle="italic"
+        android:textColor="@android:color/widget_edittext_dark"
+        android:fontFamily="sans-serif-light"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:layout_below="@+id/image"/>
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address: "
+        android:textStyle="bold"
+        style="@android:style/TextAppearance.Medium"
+        android:textColor="#000000"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:fontFamily="monospace"
+        android:layout_below="@+id/description"/>
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Raj Layout,Munnekolala\nBangalore,Karnataka"
+        style="@android:style/TextAppearance.Small"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-light"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/address"/>
+    <TextView
+        android:id="@+id/timings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timings:"
+        android:textStyle="bold"
+        style="@android:style/TextAppearance.Medium"
+        android:textColor="#000000"
+        android:padding="10dp"
+        android:fontFamily="monospace"
+        android:layout_below="@+id/location"
+        android:layout_alignParentLeft="true" />
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9.00 A.M.-11.00 P.M."
+        style="@android:style/TextAppearance.Small"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-light"
+        android:layout_below="@+id/timings"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+    <TextView
+        android:id="@+id/contacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Us:"
+        android:textStyle="bold"
+        style="@android:style/TextAppearance.Medium"
+        android:textColor="#000000"
+        android:padding="10dp"
+        android:fontFamily="monospace"
+        android:layout_below="@+id/time"
+        android:layout_alignParentLeft="true" />
+    <TextView
+        android:id="@+id/contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+91-9880123456"
+        style="@android:style/TextAppearance.Small"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-light"
+        android:layout_below="@+id/contacts"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/google_maps"
+        android:layout_below="@+id/description"
+        android:padding="10dp"
+        android:layout_toRightOf="@id/address"/>
+
+
+</RelativeLayout>
