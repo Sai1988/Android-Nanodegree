@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="app.com.example.android.gkquizapp.MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/Heading"
+                android:gravity="center_horizontal"
+                android:text="Welcome To GK Quiz"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/Heading"
+                android:text="Question 1" />
+
+            <TextView
+                style="@style/question"
+                android:text="Which is the tallest mountain in the world?" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/answer_1_1"
+                    style="@style/mutiple_choice"
+                    android:text="Fuji" />
+
+                <RadioButton
+                    android:id="@+id/answer_1_2"
+                    style="@style/mutiple_choice"
+                    android:text="Everest" />
+
+                <RadioButton
+                    android:id="@+id/answer_1_3"
+                    style="@style/mutiple_choice"
+                    android:text="K2" />
+
+                <RadioButton
+                    android:id="@+id/answer_1_4"
+                    style="@style/mutiple_choice"
+                    android:text="Mont Blanc" />
+            </RadioGroup>
+
+            <TextView
+                style="@style/Heading"
+                android:text="Question 2" />
+
+            <TextView
+                style="@style/question"
+                android:text="Which is the largest ocean in the world ?" />
+
+            <EditText
+                android:id="@+id/answer_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer here" />
+
+            <TextView
+                style="@style/Heading"
+                android:text="Question 3" />
+
+            <TextView
+                style="@style/question"
+                android:text="Which among these are planets in Solar system.(Answers can be more than one)" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/answer_3_1"
+                    style="@style/mutiple_choice"
+                    android:text="Earth" />
+
+                <CheckBox
+                    android:id="@+id/answer_3_2"
+                    style="@style/mutiple_choice"
+                    android:text="Sirus" />
+
+                <CheckBox
+                    android:id="@+id/answer_3_3"
+                    style="@style/mutiple_choice"
+                    android:text="Vega" />
+
+                <CheckBox
+                    android:id="@+id/answer_3_4"
+                    style="@style/mutiple_choice"
+                    android:text="Jupiter" />
+            </LinearLayout>
+
+            <TextView
+                style="@style/Heading"
+                android:text="Question 4" />
+
+            <TextView
+                style="@style/question"
+                android:text="Which is the largest continent in the world ?" />
+
+            <EditText
+                android:id="@+id/answer_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer here" />
+
+            <TextView
+                style="@style/Heading"
+                android:text="Question 5" />
+
+            <TextView
+                style="@style/question"
+                android:text="Which is the longest river in the world ?" />
+
+            <EditText
+                android:id="@+id/answer_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Answer here" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_submit"
+            style="@style/button"
+            android:layout_below="@+id/linear_layout"
+            android:onClick="answerSubmit"
+            android:text="submit" />
+    </RelativeLayout>
+</ScrollView>
