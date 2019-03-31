@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="app.com.example.android.gkquizapp.Main2Activity">
+
+        <TextView
+            android:id="@+id/all_answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/cookies1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_answers" />
+
+        <ImageView
+            android:id="@+id/cookies2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_answers"
+            android:layout_toRightOf="@id/cookies1" />
+
+        <ImageView
+            android:id="@+id/cookies3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_answers"
+            android:layout_toRightOf="@id/cookies2" />
+
+        <ImageView
+            android:id="@+id/cookies4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_answers"
+            android:layout_toRightOf="@id/cookies3" />
+
+        <ImageView
+            android:id="@+id/cookies5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_answers"
+            android:layout_toRightOf="@id/cookies4" />
+
+        <TextView
+            android:id="@+id/correct_answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cookies1"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="Correct Answers are:"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/result_1"
+            style="@style/answer"
+            android:layout_below="@id/correct_answers"
+            android:fontFamily="sans-serif"
+            android:text="Tallest mountain peak :" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_below="@id/correct_answers"
+            android:layout_toRightOf="@id/result_1"
+            android:fontFamily="sans-serif-light"
+            android:text="Everest" />
+
+        <TextView
+            android:id="@+id/result_2"
+            style="@style/answer"
+            android:layout_below="@id/result_1"
+            android:fontFamily="sans-serif"
+            android:text="Largest ocean :" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_below="@id/result_1"
+            android:layout_toRightOf="@id/result_2"
+            android:fontFamily="sans-serif-light"
+            android:text="Pacific" />
+
+        <TextView
+            android:id="@+id/result_3"
+            style="@style/answer"
+            android:layout_below="@id/result_2"
+            android:fontFamily="sans-serif"
+            android:text="Two planets are :" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_below="@id/result_2"
+            android:layout_toRightOf="@id/result_3"
+            android:fontFamily="sans-serif-light"
+            android:text="Earth and Jupiter" />
+
+        <TextView
+            android:id="@+id/result_4"
+            style="@style/answer"
+            android:layout_below="@id/result_3"
+            android:fontFamily="sans-serif"
+            android:text="Largest continent :" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_below="@id/result_3"
+            android:layout_toRightOf="@id/result_4"
+            android:fontFamily="sans-serif-light"
+            android:text="Asia" />
+
+        <TextView
+            android:id="@+id/result_5"
+            style="@style/answer"
+            android:layout_below="@id/result_4"
+            android:fontFamily="sans-serif"
+            android:text="Longest river :" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_below="@id/result_4"
+            android:layout_toRightOf="@id/result_5"
+            android:fontFamily="sans-serif-light"
+            android:text="Nile" />
+
+    </RelativeLayout>
+</ScrollView>
