@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">MyTourGuide</string>
+
+    <!-- Strings for each category [CHAR LIMIT = 20] -->
+    <string name="hospital">Hospital</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="school">School</string>
+    <string name="sports">Sports</string>
+
+    <!-- Hospital names [CHAR LIMIT=20] -->
+    <string name="hospital_1_name">Jeevika</string>
+    <string name="hospital_2_name">Yashomati</string>
+    <string name="hospital_3_name">Sankara</string>
+
+    <!-- Restaurant names [CHAR LIMIT=20] -->
+    <string name="restaurant_1_name">Maria Taste Circle</string>
+    <string name="restaurant_2_name">Moriz</string>
+    <string name="restaurant_3_name">Thalassery Restaurant</string>
+
+    <!-- School names [CHAR LIMIT=20] -->
+    <string name="school_1_name">VIBGYOR</string>
+    <string name="school_2_name">Munnekola Government School</string>
+    <string name="school_3_name">New Horizon Gurukul</string>
+
+    <!-- Sports centres names [CHAR LIMIT=20] -->
+    <string name="sports_1_name">Ekam Sports Arena</string>
+    <string name="sports_2_name">Gurukul Sports Academy</string>
+    <string name="sports_3_name">Orchid Sports Academy</string>
+
+
+    <!-- Hospital description [CHAR LIMIT=500] -->
+    <string name="hospital_1_description"><b>Description:</b>\nJeevika hospital is an Anesthisiology hospital well
+                 known for its good care and treatment</string>
+    <string name="hospital_2_description"><b>Description:</b>\nYashomati is a mutli speciality clinic which has
+                 facilities for various treatments</string>
+    <string name="hospital_3_description"><b>Description:</b>\nSankara is an well known eye hosipital ehich has cutting
+                edge technology in various eye treatments</string>
+
+    <!-- Restaurant description [CHAR LIMIT=500] -->
+    <string name="restaurant_1_description"><b>Description:</b>\nMaria Taste Circle is known for its variety
+                  of seafood dishes</string>
+    <string name="restaurant_2_description"><b>Description:</b>\nMoriz is famous for its fried chickens as
+                  well as varities of chicken tandoor</string>
+    <string name="restaurant_3_description"><b>Description:</b>\nThalassery Restuarant is famous for its well
+                  known "Malabar Chicken Biryani"</string>
+
+    <!-- School description [CHAR LIMIT=500] -->
+    <string name="school_1_description"><b>Description:</b>\nVibgyor school is one of the best offering its
+                  students CBSE, ICSE and IGCSE syllabus</string>
+    <string name="school_2_description"><b>Description:</b>\nMunnekolala Govt school provides state
+                  syllabus eduction to students at a very affordable price</string>
+    <string name="school_3_description">New Horizon Gurukul (estd: 2010) is an innovative fusion of
+                  the cultural heritage of the ancient Gurukul system with modern methods of
+                  teaching and learning</string>
+
+    <!-- Sports centre description [CHAR LIMIT=500] -->
+    <string name="sports_1_description"><b>Description:</b>\nEkam sports centre provides basketball and
+                  soccer facilties for sports lovers </string>
+    <string name="sports_2_description"><b>Description:</b>\nGurukul sports academy provides excellent
+                 badmition courts</string>
+    <string name="sports_3_description"><b>Description:</b>\nOrchid sports academy provides good and
+                 hygenic swimming pools"</string>
+
+
+    <!-- Hospital address [CHAR LIMIT=1000] -->
+    <string name="hospital_1_address"><b>Address:</b>\n95/3, \nMarathalli Outer Ring Road, \nDoddanekundi,
+                    \nBengaluru, \nKarnataka 560037</string>
+     <string name="hospital_2_address"><b>Address:</b>\nMarathahalli, \nBangalore, \n#2371/3, \n
+                     HAL Airport Varthur Road, \nMunne Kolalu, \nKarnataka 560037</string>
+     <string name="hospital_3_address"><b>Address:</b>\nOpposite to StarBazar, \nHAL Airport Varthur Road,
+                     \nMunne Kolalu \nKarnataka 560037</string>
+
+    <!-- Restaurant address [CHAR LIMIT=1000] -->
+    <string name="restaurant_1_address"><b>Address:</b>\n1st Main, \nRamanjeneya Layout,\nMarathalli Outer
+                  Ring Road, \nBengaluru, \nKarnataka 560037</string>
+     <string name="restaurant_2_address"><b>Address:</b>\nAECS Layout, \nKundanahalli gate, \nBrookfield,
+                   \nKarnataka 560037</string>
+     <string name="restaurant_3_address"><b>Address:</b>\nOpposite to MahaBazar, \nReddy Layout, \n
+                   Marathahalli, \nKarnataka 560037</string>
+
+    <!-- School address [CHAR LIMIT=1000] -->
+    <string name="school_1_address"><b>Address:</b>\n58/1, \nbehind Sri Ram Samruddhi,\nMarathalli Outer
+                  Ring Road, \nBengaluru, \nKarnataka 560037</string>
+     <string name="school_2_address"><b>Address:</b>\nMunnekolala, \nMarathahalli Outer Ring Road,
+                  \nBengaluru, \nKarnataka 560037</string>
+     <string name="school_3_address"><b>Address:</b>\nBellandur post, \nBehind New Horizon Engineering
+                  college, \nMarathahalli, \nKarnataka 560037</string>
+
+    <!-- Sports Centres address [CHAR LIMIT=1000] -->
+    <string name="sports_1_address"><b>Address:</b>\nMunnekolala, \nMarathahalli Outer Ring Road,
+                  \nBengaluru, \nKarnataka 560037</string>
+     <string name="sports_2_address"><b>Address:</b>\n58/1, \nopposite Sri Ram Samruddhi,\nMarathalli Outer
+                  Ring Road, \nBengaluru, \nKarnataka 560037</string>
+     <string name="sports_3_address"><b>Address:</b>\n MSR Layout, \nOpposite to Innovative Multiplex,  \n
+                   Marathahalli, \nKarnataka 560037</string>
+
+    <!-- Hospital contact [CHAR LIMIT=20] -->
+    <string name="hospital_1_contact"><b>Phone:</b> 080 3076 6768</string>
+    <string name="hospital_2_contact"><b>Phone:</b> 080 4322 1000</string>
+    <string name="hospital_3_contact"><b>Phone:</b> 080 2854 2727</string>
+
+    <!-- Restaurant contact [CHAR LIMIT=20] -->
+    <string name="restaurant_1_contact"><b>Phone:</b> 080 4965 3035</string>
+    <string name="restaurant_2_contact"><b>Phone:</b> 080 4965 2783</string>
+    <string name="restaurant_3_contact"><b>Phone:</b> 080 3271 3030</string>
+
+    <!-- School contact [CHAR LIMIT=20] -->
+    <string name="school_1_contact"><b>Phone:</b> 080 4277 7000</string>
+    <string name="school_2_contact"><b>Phone:</b> 080 4923 2787</string>
+    <string name="school_3_contact"><b>Phone:</b> 080 2563 9720</string>
+
+    <!-- Sports Centres contact [CHAR LIMIT=20] -->
+    <string name="sports_1_contact"><b>Phone:</b> 098 4562 7764</string>
+    <string name="sports_2_contact"><b>Phone:</b> 080 2847 5980</string>
+    <string name="sports_3_contact"><b>Phone:</b> 090 1943 4999</string>
+
+
+</resources>
