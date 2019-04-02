@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5863ddfcaee4a271f8111528e3bfbb2902886e6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7c9491869616f0be0f8a1ed76d0e0c4ab5693325/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b63b87b463a71f36546a0fd42707c459a031ec30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6e8a3eff78dabfd018137f7c4aaed2aa53e9a2a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_ca481313f57c48e0d101d7d2ca6bce81a986324b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_dff990ee104eb2bf387bea68c0e58fb3333d723d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_034542f50de1d32037fc20bbf4c6a198323cdf10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3ff7ec4a491782695c649c8524f2cbb2021dc985/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_2a984468180439fb1618748827afe69df6c28db7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_370f0433ed3aed5b5c3fb6f45302e1e69cbf88cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eb20a503f961b4a24851618d6fc28add167d5bb2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_829d54d6b1a39df732c31a18e98519e9db9cdb93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0e32429f6648c4f2f4e5a560cfacc33c1633cf21/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="66f577893eff78ca6db83c114915e2d852ec6519">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9592c77beee6257ab0408ac3b35aa3b8fd88460/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="25d06ddfe2a6df12431269d8b282dfb6a5cd253f">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8b03d432680f3c59dd9911fac498ca65a02057fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d62ec55fe99f40f70d7c39d1b12262b8bf7467cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/saiprashanth/Downloads/MyInventory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fec559ac00a2c24392f285b7fd7746b81433e214/classes.dex" />
+    </item>
+
+</items>
