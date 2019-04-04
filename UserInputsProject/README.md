@@ -1,4 +1,4 @@
-The goal of this project is to create an educational app that quizzes a user about a genral knowlwdge.
+The goal of this project is to create an educational app that quizzes a user about a general knowlwdge.
 Different user control widgets were used like editbox , radiobutton, checkbox.
 Scrollview was implemented such thar user can scroll through the phone screen.
 Within Scrollview , RelativeLayout and LinearLayouts were used for positioning text and controls.
